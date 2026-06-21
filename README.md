@@ -1,2 +1,14 @@
 # souhu-replay-guide
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
